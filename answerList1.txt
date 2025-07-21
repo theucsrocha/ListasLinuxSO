@@ -1,0 +1,23 @@
+1-
+a) cal
+b) date
+c) clear
+d)exit
+e)uname
+
+2.
+a)pwd
+b)cd ~
+c)ls
+d)cd /bin
+e)pwd
+f)cd /etc -> ls
+g)ls
+h)cd ~
+i)mkdir matheus
+j)touch rocha.txt
+k)cp rocha.txt ~
+l)mv rocha.txt rocha2.txt
+m)mv rocha.txt ~
+n)rmdir mnatheus
+
