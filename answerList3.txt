@@ -1,0 +1,46 @@
+1.
+a) id
+b) who
+c)whoami
+
+2. O primeiro comando mostra informacoes de id do usuario, grupos,etc. O segundo comando mostra os usuarios logados e o terceiro comando mostra quem é o usuario do momento
+
+3.touch exemplo1.txt
+
+4.nano exemplo1.txt
+
+5.more exemplo1.txt
+
+6.tail -n +25 exemplo1.txt 
+
+7.nl exemplo1.txt
+
+8. head  -n 15 exemplo1.txt 
+
+9.tail -n 10 exemplo1.txt
+
+10.nano lista.txt
+
+11.sort -f lista.txt
+
+12.sort -r lista.txt
+
+13.nano alunos.txt
+
+14.sort alunos.txt | uniq
+
+15.cat alunos.txt lista.txt > uniao.txt
+
+16.cat uniao.txt
+
+17. find -name "*conf"
+
+18.find . -name "*conf"
+
+19.find . -maxdepth 2 -name "*conf"
+
+20. find . -type f
+
+21. find . -type d
+
+22.  find . -type f -mtime -60
