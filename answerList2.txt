@@ -1,0 +1,21 @@
+1.
+a)cd /etc
+b)ls
+c)ls -la
+d)Mais especificações foram mostradas, como ultimo acesso, tamanho,permissoes,etc
+e)ls -lh
+f)Sim, os comandos sao case sensitive
+g)lista os arquivos com suas especificaçoes e ordena primeiro por data de acesso e depois tamanho
+h)ls -lauSr
+i)ok
+j)find r*
+k)ls | wc -l
+l)tree | more
+m)cd bin -> ls || ls /bin
+n)cd /etc -> find *conf
+o)sudo find . -name "*conf" > ~/conf.file.txt
+p)nano
+q)cat exemplo1.txt
+r)cat exemplo1.txt | grep "Ro"
+s) cat exemplo1.txt | grep "Ro" > novo.txt
+t)diff exemplo1.txt novo.txt
